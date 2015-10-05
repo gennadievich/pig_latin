@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative 'piglatin'
+require_relative 'pig_latin'
 
 class TestPigLatin < MiniTest::Unit::TestCase
   def test_hello_becomes_ellohay
